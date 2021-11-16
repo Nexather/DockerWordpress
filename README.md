@@ -56,4 +56,6 @@ volumes:
   wordpress_data: {}
   ```
 4. Run `sudo docker-compose up -d` from the project directory to build the containers
-5. 
+5. Go to a web browser and enter http://localhost:8000 in the address bar, you should see something like this:
+![image](https://user-images.githubusercontent.com/27169767/141958021-6d5807b5-7349-41bb-88a8-d34900cd204b.png)
+
