@@ -59,3 +59,14 @@ volumes:
 5. Go to a web browser and enter http://localhost:8000 in the address bar, you should see something like this:
 ![image](https://user-images.githubusercontent.com/27169767/141958021-6d5807b5-7349-41bb-88a8-d34900cd204b.png)
 
+# Creating the website
+1. Select the language
+2. Enter information as requested, I chose to discourage search engine indexing
+3. You will now see an admin page similar to this:
+![image](https://user-images.githubusercontent.com/27169767/141958446-f460155b-9d9f-4ca9-a325-ba9cbe8dc18c.png)
+
+You are now free to customize to your liking!
+
+Sources:
+https://docs.docker.com/samples/wordpress/
+
